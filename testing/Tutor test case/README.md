@@ -17,23 +17,6 @@ Tutor profile is successfully created.
 
 Status: Pass  
 
-### Test Case 9: Manage Availability
-
-Test ID: TC09  
-User Role: Tutor  
-Feature: Manage Availability  
-
-Steps:  
-1. Login as a tutor.  
-2. Open Availability Management page.  
-3. Set available dates and time slots.  
-4. Save availability.  
-
-Expected Result:  
-Tutor availability is updated successfully.  
-
-Status: Pass  
-
 ### Test Case 10: Accept Booking Request
 
 Test ID: TC10  
