@@ -17,9 +17,9 @@ Tutor profile is successfully created.
 
 Status: Pass  
 
-### Test Case 10: Accept Booking Request
+### Test Case 9: Accept Booking Request
 
-Test ID: TC10  
+Test ID: TC09 
 User Role: Tutor  
 Feature: Booking Request Management  
 
@@ -34,9 +34,9 @@ Booking status changes to Accepted.
 
 Status: Pass  
 
-### Test Case 11: Reject Booking Request
+### Test Case 10: Reject Booking Request
 
-Test ID: TC11  
+Test ID: TC10  
 User Role: Tutor  
 Feature: Booking Request Management  
 
