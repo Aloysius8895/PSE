@@ -2,12 +2,13 @@
 ### Test Case 1: Student Registration
 Test ID: TC01  
 User Role: Student  
-Feature: Create Account  
+Feature: Create Account
+
 Steps:  
-Open the UniTutor platform.  
-Click Register.  
-Enter Full Name, Email Address, and Password.  
-Click Create Account.  
+1. Open the UniTutor platform.  
+2. Click Register.  
+3. Enter Full Name, Email Address, and Password.  
+4. Click Create Account.  
 
 Expected Result:  
 Student account is successfully created and redirected to the login page.  
@@ -20,9 +21,9 @@ User Role: Student
 Feature: Login  
 
 Steps:  
-Open the UniTutor login page.  
-Enter registered email and password.  
-Click Login.  
+1. Open the UniTutor login page.  
+2. Enter registered email and password.  
+3. Click Login.  
 
 Expected Result:  
 Student is successfully logged into the platform.
@@ -33,11 +34,12 @@ Status: Pass
 Test ID: TC03  
 User Role: Student  
 Feature: Tutor Search  
+
 Steps:  
-Login as a student.  
-Navigate to Search Tutor page.  
-Enter subject name in the search bar.  
-Click Search.  
+1. Login as a student.  
+2. Navigate to Search Tutor page.  
+3. Enter subject name in the search bar.  
+4. Click Search.  
 
 Expected Result:  
 List of tutors related to the subject is displayed.  
@@ -48,10 +50,11 @@ Status: Pass
 Test ID: TC04  
 User Role: Student  
 Feature: View Tutor Profile  
+
 Steps:  
-Login as a student.  
-Search for a tutor.  
-Click a tutor from the search results.  
+1. Login as a student.  
+2. Search for a tutor.  
+3. Click a tutor from the search results.  
 
 Expected Result:  
 Tutor profile page displays tutor information such as subjects, biography, hourly rate, and ratings.  
@@ -65,11 +68,11 @@ User Role: Student
 Feature: Session Booking  
 
 Steps:  
-Login as a student.  
-Select a tutor profile.  
-Click Book Session.  
-Select date and time slot.  
-Confirm booking.  
+1. Login as a student.  
+2. Select a tutor profile.  
+3. Click Book Session.  
+4. Select date and time slot.  
+5. Confirm booking.  
 
 Expected Result:  
 Booking request is successfully submitted.  
@@ -83,10 +86,9 @@ User Role: Student
 Feature: Booking Status  
 
 Steps:  
-
-Login as a student.  
-Navigate to My Bookings page.  
-Check booking status.  
+1. Login as a student.  
+2. Navigate to My Bookings page.  
+3. Check booking status.  
 
 Expected Result:  
 Student can see whether the booking is Pending, Accepted, or Rejected.  
@@ -100,9 +102,9 @@ User Role: Student
 Feature: Tutor Rating  
 
 Steps:  
-Login as a student.  
-Open completed tutoring session.  
-Submit rating and comment.  
+1. Login as a student.  
+2. Open completed tutoring session.  
+3. Submit rating and comment.  
 
 Expected Result:  
 Rating and feedback are successfully saved.  
