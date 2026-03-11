@@ -43,3 +43,11 @@ As a student, I want to view my booking status so that I know whether my booking
 
 * User Story 12:  
 As a student, I want to send messages to tutors so that I can communicate with them before the session.
+
+## Rating and Feedback:
+
+* User Story 13:  
+As a student, I want to rate tutors so that I can provide feedback about the tutoring session.
+
+* User Story 14:  
+As a student, I want to submit comments so that I can share detailed feedback with other students.
