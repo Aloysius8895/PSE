@@ -1,0 +1,22 @@
+# Testing Feedback
+
+During the usability testing phase, three testers interacted with the Peer Tutoring Platform prototype and performed several tasks such as registration, login, searching for tutors, booking tutoring sessions, and rating tutors.
+
+### Tester Feedback
+
+**Tester 1:**  
+"The platform interface is simple and easy to understand. I was able to search for tutors and book a session without difficulty."
+
+**Tester 2:**  
+"I was not sure if my booking request was submitted successfully because the system did not clearly show a confirmation message."
+
+**Tester 3:**  
+"The tutor profile page is helpful because it shows the tutor's subjects and experience, but some buttons could be more visible."
+
+### Improvements Based on Feedback
+
+Based on the feedback collected from the testers, several improvements were made:
+
+- Added a confirmation message after submitting a booking request.
+- Improved the visibility of certain buttons to make navigation clearer.
+- Added an **Edit Tutor Profile** feature to allow tutors to update their information.
