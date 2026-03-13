@@ -1,0 +1,33 @@
+# Prototype Testing Recording
+
+A screen recording was conducted to demonstrate the testing of the Peer Tutoring Platform prototype.  
+The testing process was divided into **Student-side testing** and **Tutor-side testing** to verify the different system functions for each user role.
+
+## Student Testing
+
+The following features were tested from the student perspective:
+
+- Register account
+- Login to the platform
+- Search tutor by subject
+- View tutor profile
+- Book tutoring session
+- View booking status in "My Bookings"
+- Rate tutor after session
+
+Video link:  
+https://drive.google.com/file/d/1q03qFvuQ68f4M4MWdbHlzp-DASD9_ziW/view?usp=drive_link
+
+## Tutor Testing
+
+The following features were tested from the tutor perspective:
+
+- Login as tutor
+- Create or edit tutor profile
+- View booking requests
+- Accept booking request
+- Reject booking request
+- Update tutor information
+
+Video link:  
+https://drive.google.com/file/d/1OAlfFDByl6QULsOGWst5BI4HjnjWRyp-/view?usp=drive_link
