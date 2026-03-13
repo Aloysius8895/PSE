@@ -1,3 +1,3 @@
 # Routine 3 (08/03/2026 ~ 10/03/2026) - Sprint 2 (Build and Test) 
 
-At this routine the team focus on implement the fully function of the system. On the other hand,the team also focus on testing and improve the prototype and diagram part after gathering the feedback from other. 
+Throughout this process, the team was focused on delivering the full functionality of the system. The development was focused on the integration of the main features of the system, which enabled the system to work as expected. At the same time, the testing was conducted, and the refinement of the prototype was carried out according to the feedback received from the other users. The improvements were made to the system diagrams, which involved the updates of the system's design and structure, with the aim of reflecting the functions of the system that were developed.
