@@ -1,7 +1,7 @@
-# Routine4
+# Routine 4
 
-In Routine 4, the team focus on completing the final version of the prototype and preparing for the final presentation. The prototype was reviewed and improved to ensure that the main features such as tutor search, session booking, and profile management were working properly.  
+During Routine 4, the team was able to focus on completing the final version of the prototype. This was also a period for preparing for the final presentation. The team was able to review the prototype further to ensure that all the key features of the system, like searching for a tutor or booking a session, worked correctly.
 
-The team also organized all project files and documentation in GitHub, including design diagrams, prototype screenshots, and testing evidence. In addition, the Trello board was updated to ensure that all tasks were completed and moved to the “Done” column.  
+The team was also able to arrange all the necessary documents for the project on GitHub. This included diagrams for the design, screenshots for the prototype, and testing results. Moreover, the team was able to update the Trello board to ensure that all tasks had been completed correctly by moving them to the “Done” column.
 
-Finally, the team prepare the presentation slides and practiced presenting the project. This stage ensured that the prototype, documentation, and presentation materials were ready for final submission.  
+The team was also able to work on the presentation slides for the project. This was a period for preparing for the presentation by ensuring that all team members were familiar with the features of the system. This stage ensured that everything was ready for the final presentation.
